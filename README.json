@@ -1,0 +1,3103 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Main Concepts"
+    },
+    {
+      "description": "AI governance is a system of rules, processes, frameworks, and tools within an organization to ensure the ethical and responsible development of AI.",
+      "items": [],
+      "title": "What is AI Governance?"
+    },
+    {
+      "description": "Human-Centered Artificial Intelligence (HCAI) is an approach to AI development that prioritizes human users' needs, experiences, and well-being.",
+      "items": [],
+      "title": "What is Human-Centered AI?"
+    },
+    {
+      "description": "Responsible AI (RAI) refers to the development, deployment, and use of artificial intelligence (AI) systems in ways that are ethical, transparent, accountable, and aligned with human values.",
+      "items": [],
+      "title": "What is Responsible AI?"
+    },
+    {
+      "description": "Responsible AI frameworks often encompass guidelines, principles, and practices that prioritize fairness, safety, and respect for individual rights.",
+      "items": [],
+      "title": "What is a Responsible AI framework?"
+    },
+    {
+      "description": "Trustworthy AI (TAI) refers to artificial intelligence systems designed and deployed to be transparent, robust and respectful of data privacy.",
+      "items": [],
+      "title": "What is Trustworthy AI?"
+    },
+    {
+      "description": "AI is a transformative and dual-side technology prone to reshape industries, yet it requires careful governance to balance the benefits of automation and insight with protections against unintended social, economic, and security impacts. You can read more about the current wave here.",
+      "items": [],
+      "title": "Why is Responsible, Trustworthy, and Human-Centered AI important?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Academic Research"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lundberg, S. M. et al. (2017). A unified approach to interpreting model predictions. Advances in neural information processing systems, 30. Article",
+          "description": ", Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T21:52:04Z",
+            "owner": "shap",
+            "repo": "shap",
+            "stars": 25682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ribeiro, M. T. et al. (2016, August). \"Why should i trust you?\" Explaining the predictions of any classifier. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). Article",
+          "description": ", Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-25T20:32:21Z",
+            "owner": "marcotcr",
+            "repo": "lime",
+            "stars": 12167
+          }
+        }
+      ],
+      "title": "Explainability/Interpretability/Mechanical Interpretability"
+    },
+    {
+      "description": "This section features a curated selection of books.",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fourrier, C. and et all. (2024) LLM Evaluation Guidebook. Github Repository. Web",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-03T14:45:05Z",
+            "owner": "huggingface",
+            "repo": "evaluation-guidebook",
+            "stars": 2140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vizquez, S. & Kubersky, W. (2025) The Little Book of ML Metrics. Book",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-04T19:45:13Z",
+            "owner": "NannyML",
+            "repo": "The-Little-Book-of-ML-Metrics",
+            "stars": 1001
+          }
+        }
+      ],
+      "title": "Open Access"
+    },
+    {
+      "description": "This section features a curated selection of open courses focused on Responsible AI, AI Ethics, AI Safety and other related topics. The classes range from introductory courses on data ethics to specialized training in AI Safety.",
+      "items": [],
+      "title": "Courses"
+    },
+    {
+      "description": "This section features a curated selection of databases focused on tracking incidents, issues, litigations, vulnerabilities and Ai for good initiatives.",
+      "items": [],
+      "title": "Databases"
+    },
+    {
+      "description": "This section features a curated selection of institutes that research about Responsible AI and related topics.",
+      "items": [],
+      "title": "Institutes"
+    },
+    {
+      "description": "This section features a curated selection of maturity models that can help organizations to adopt AI in a responsible way.",
+      "items": [],
+      "title": "Maturity Models"
+    },
+    {
+      "description": "This section features podcasts that offer insightful commentary and explanations on Responsible AI, AI Governance, AI Safety, AI Alignment and Machine Learning Interpretability.",
+      "items": [],
+      "title": "Podcasts"
+    },
+    {
+      "description": "This section features a curated selection of regulations.",
+      "items": [],
+      "title": "Regulations"
+    },
+    {
+      "description": "What are regulations?\nRegulations are requirements established by governments.",
+      "items": [],
+      "title": "Definition"
+    },
+    {
+      "description": "This section features a curated selection of responsible scale policies adopted by AI Labs and organizations developing frontier models.",
+      "items": [],
+      "title": "Responsible Scaling Policies"
+    },
+    {
+      "description": "Responsible Scale Policies (RSPs) specify what level of AI capabilities an AI developer is prepared to handle safely with their current protective measures, and conditions under which it would be too dangerous to continue deploying AI systems and/or scaling up AI capabilities until protective measures improve.",
+      "items": [],
+      "title": "Definition"
+    },
+    {
+      "description": "This section features a curated selection of reports relevant to understand the current situation and trends related to Responsible AI, AI Ethics and AI Governance.",
+      "items": [],
+      "title": "Reports"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Standards"
+    },
+    {
+      "description": "What are standards?\nStandards are voluntary, consensus solutions. They document an agreement on how a material, product, process, or service should be specified, performed or delivered. They keep people safe and ensure things work. They create confidence and provide security for investment.\nStandards can be understood as formal specifications of best practices as well. There is a growing number of standards related to AI. You can search for the latest in the Standards Database from AI Standards Hub.\nThere are some open standards such as RSL, focused on content licensing, that still need to gain traction in the market.",
+      "items": [],
+      "title": "Definition"
+    },
+    {
+      "description": "This section features a curated selection of standards related to Responsible AI.",
+      "items": [],
+      "title": "Standards"
+    },
+    {
+      "description": "The European Committee for Standardization is one of three European Standardization Organizations (together with CENELEC and ETSI) that have been officially recognized by the European Union and by the European Free Trade Association (EFTA) as being responsible for developing and defining voluntary standards at European level.\nCEN AI Work programme can be found here.",
+      "items": [],
+      "title": "CEN Standards"
+    },
+    {
+      "description": "The Digital Governance Standards Institute, part of the Digital Governance Council, is an accredited standards development body. The Institute enables greater trust and confidence in Canada’s digital systems through developing technology governance standards collaboratively across a range of stakeholders.",
+      "items": [],
+      "title": "DGSI Standards"
+    },
+    {
+      "description": "The European Telecommunications Standards Institute (ETSI) is an independent, not-for-profit, standardization organization operating in the field of information and communications.",
+      "items": [],
+      "title": "ETSI Standards"
+    },
+    {
+      "description": "The Institute of Electrical and Electronics Engineers (IEEE) is an American 501 charitable professional organization for electrical engineering, electronics engineering, and related disciplines. Today, it is a global network of more than 486,000 engineering and STEM professionals across a variety of disciplines whose core purpose is to foster technological innovation for the benefit of humanity.",
+      "items": [],
+      "title": "IEEE Standards"
+    },
+    {
+      "description": "SAE International is community of more than 200,000 aerospace, commercial vehicle, and ground vehicle engineers and technical experts, SAE solves challenges, creates connections, and develops resources that allow us to drive industry forward.",
+      "items": [],
+      "title": "SAE Standards"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ISO/IEC Standards"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NIST Publications"
+    },
+    {
+      "description": "Additional standards can be found using the Standards Database and AIDG Hub, we recommend to review NIST Assessing Risks and Impacts of AI (ARIA), and EU AI Act Harmonised Standards Mapping as well. Another interesting repository for AI Governance is the AI Governance Library.",
+      "items": [],
+      "title": "Other resources"
+    },
+    {
+      "description": "This section features tools and libraries that help to design, implement and manage AI in a responsible way.\nThis section is under review and the rest of entries will be added to the table with extended information.",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agent Governance Toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:56:00Z",
+            "owner": "microsoft",
+            "repo": "agent-governance-toolkit",
+            "stars": 5897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verifywise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:06:17Z",
+            "owner": "verifywise-ai",
+            "repo": "verifywise",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Venturalitica SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:22:43Z",
+            "owner": "Venturalitica",
+            "repo": "venturalitica-sdk",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Governance Mega-Map Application",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "AI Governance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AIR Blackbox",
+          "description": "Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. (Website | PyPI)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:41:40Z",
+            "owner": "airblackbox",
+            "repo": "airblackbox",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRML / falsify",
+          "description": "Pre-Registered ML Manifest specification (CC BY 4.0). Commits an evaluation claim (metric, comparator, threshold, dataset hash, seed, producer identity) to a SHA-256 hash before the experiment runs. Tamper-evident audit trail; subcategory crosswalks for EU AI Act Article 12, NIST AI RMF, ISO/IEC 42001. Four byte-equivalent reference implementations across 21 conformance vectors. Zenodo DOI 10.5281/zenodo.20177839, in SchemaStore catalog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:26:34Z",
+            "owner": "studio-11-co",
+            "repo": "falsify",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Systima Comply",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-25T19:56:25Z",
+            "owner": "systima-ai",
+            "repo": "comply",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glassalpha",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Audit"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DoWhy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:30:18Z",
+            "owner": "py-why",
+            "repo": "dowhy",
+            "stars": 8261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CausalPy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:02:35Z",
+            "owner": "pymc-labs",
+            "repo": "CausalPy",
+            "stars": 1176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Causal Inference 360",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T07:04:42Z",
+            "owner": "BiomedSciAI",
+            "repo": "causallib",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CausalAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-01T17:28:42Z",
+            "owner": "salesforce",
+            "repo": "causalai",
+            "stars": 324
+          }
+        }
+      ],
+      "title": "Causal Inference"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "phoenix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:57:44Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evidently",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-05T16:29:57Z",
+            "owner": "evidentlyai",
+            "repo": "evidently",
+            "stars": 7800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deepchecks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-28T12:07:44Z",
+            "owner": "deepchecks",
+            "repo": "deepchecks",
+            "stars": 4041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alibi Detect",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-11T16:35:15Z",
+            "owner": "SeldonIO",
+            "repo": "alibi-detect",
+            "stars": 2546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nannyML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-12T08:12:42Z",
+            "owner": "NannyML",
+            "repo": "nannyml",
+            "stars": 2147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PKBooks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-16T13:46:23Z",
+            "owner": "Pushp-Kharat1",
+            "repo": "PkBoost",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "Drift"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI Act Skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-07-14T13:34:39Z",
+            "owner": "abk1969",
+            "repo": "ai-act-skills",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eu-ai-act-checklist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T02:17:16Z",
+            "owner": "GatisOzols",
+            "repo": "eu-ai-act-checklist",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Act Companion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T02:52:26Z",
+            "owner": "JKasteele",
+            "repo": "ai-act-companion",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "EU AI Act Compliance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI360 Toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T19:55:33Z",
+            "owner": "Trusted-AI",
+            "repo": "AIF360",
+            "stars": 2852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What-If Tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-21T19:46:04Z",
+            "owner": "PAIR-code",
+            "repo": "what-if-tool",
+            "stars": 1006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fairness Indicators",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T18:37:26Z",
+            "owner": "tensorflow",
+            "repo": "fairness-indicators",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Themis ML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-10-21T04:25:54Z",
+            "owner": "cosmicBboy",
+            "repo": "themis-ml",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OxonFair",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T10:23:24Z",
+            "owner": "oxfordinternetinstitute",
+            "repo": "oxonfair",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faircause",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-04-16T20:48:42Z",
+            "owner": "dplecko",
+            "repo": "CFA",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intersectional Fairness (ISF)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-04-23T01:18:32Z",
+            "owner": "intersectional-fairness",
+            "repo": "isf",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EquiPy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-07T08:30:57Z",
+            "owner": "equilibration",
+            "repo": "equipy",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fairsight Toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-08T06:22:23Z",
+            "owner": "KS-Vijay",
+            "repo": "fairsight",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDFfair: Explicitly Deweighted Features",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-08-28T05:45:27Z",
+            "owner": "matloff",
+            "repo": "EDFfair",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fmm-fairness-eval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-28T10:38:44Z",
+            "owner": "Ces107",
+            "repo": "fmm-fairness-eval-cli",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Fairness"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Feast",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T14:24:33Z",
+            "owner": "feast-dev",
+            "repo": "feast",
+            "stars": 7207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Featureform",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-03T19:09:35Z",
+            "owner": "featureform",
+            "repo": "featureform",
+            "stars": 1985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feathr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-04-04T19:17:41Z",
+            "owner": "feathr-ai",
+            "repo": "feathr",
+            "stars": 1938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hopsworks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-02-10T05:53:39Z",
+            "owner": "logicalclocks",
+            "repo": "hopsworks",
+            "stars": 1302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Butterfree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-22T19:01:45Z",
+            "owner": "quintoandar",
+            "repo": "butterfree",
+            "stars": 319
+          }
+        }
+      ],
+      "title": "Feature Stores"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T21:52:04Z",
+            "owner": "shap",
+            "repo": "shap",
+            "stars": 25682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "captum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:08:55Z",
+            "owner": "meta-pytorch",
+            "repo": "captum",
+            "stars": 5685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transformer Debugger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T17:10:05Z",
+            "owner": "openai",
+            "repo": "transformer-debugger",
+            "stars": 4122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shapash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-28T07:42:31Z",
+            "owner": "MAIF",
+            "repo": "shapash",
+            "stars": 3254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dtreeviz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-02T18:39:55Z",
+            "owner": "parrt",
+            "repo": "dtreeviz",
+            "stars": 3154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI360 Toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T19:55:33Z",
+            "owner": "Trusted-AI",
+            "repo": "AIF360",
+            "stars": 2852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eli5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-08T21:01:12Z",
+            "owner": "TeamHG-Memex",
+            "repo": "eli5",
+            "stars": 2780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alibi Explain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-17T13:23:21Z",
+            "owner": "SeldonIO",
+            "repo": "alibi",
+            "stars": 2643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExplainerHub",
+          "description": "in github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T19:52:59Z",
+            "owner": "oegedijk",
+            "repo": "explainerdashboard",
+            "stars": 2510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diverse Counterfactual Explanations (DiCE)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-13T17:34:53Z",
+            "owner": "interpretml",
+            "repo": "DiCE",
+            "stars": 1523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "innvestigate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-11T14:13:23Z",
+            "owner": "albermax",
+            "repo": "innvestigate",
+            "stars": 1307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XAI - An eXplainability toolbox for machine learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-29T12:57:47Z",
+            "owner": "EthicalML",
+            "repo": "xai",
+            "stars": 1257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automated interpretability",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-06T18:40:46Z",
+            "owner": "openai",
+            "repo": "automated-interpretability",
+            "stars": 1082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniXAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-02T18:13:12Z",
+            "owner": "salesforce",
+            "repo": "OmniXAI",
+            "stars": 971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Human Learn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-09T13:46:24Z",
+            "owner": "koaning",
+            "repo": "human-learn",
+            "stars": 834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xplique",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T14:14:45Z",
+            "owner": "deel-ai",
+            "repo": "xplique",
+            "stars": 750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fasttreeshap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-26T04:01:38Z",
+            "owner": "linkedin",
+            "repo": "FastTreeSHAP",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReasonGraph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-09T13:57:06Z",
+            "owner": "ZongqianLi",
+            "repo": "ReasonGraph",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inseq",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T15:29:40Z",
+            "owner": "inseq-team",
+            "repo": "inseq",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExplainaBoard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-10T13:39:00Z",
+            "owner": "neulab",
+            "repo": "ExplainaBoard",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zennit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-13T09:07:15Z",
+            "owner": "chr5tphr",
+            "repo": "zennit",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ferret",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-29T18:26:21Z",
+            "owner": "g8a9",
+            "repo": "ferret",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vip",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-05T21:55:55Z",
+            "owner": "bgreenwell",
+            "repo": "vip",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastshap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-06T03:38:38Z",
+            "owner": "bgreenwell",
+            "repo": "fastshap",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "effector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T04:24:08Z",
+            "owner": "givasile",
+            "repo": "effector",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "survex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-06-15T13:15:47Z",
+            "owner": "ModelOriented",
+            "repo": "survex",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dianna",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-30T13:31:56Z",
+            "owner": "dianna-ai",
+            "repo": "dianna",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flashlight",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-10-13T15:48:22Z",
+            "owner": "mayer79",
+            "repo": "flashlight",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "effectplots",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-12-29T10:21:34Z",
+            "owner": "mayer79",
+            "repo": "effectplots",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teller",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-20T06:32:45Z",
+            "owner": "Techtonique",
+            "repo": "teller",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XAIoGraphs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-06T14:27:27Z",
+            "owner": "Telefonica",
+            "repo": "XAIoGraphs",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skater",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Interpretability/Explicability"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "interpretML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T16:51:03Z",
+            "owner": "interpretml",
+            "repo": "interpret",
+            "stars": 6916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imodels",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-03T03:34:45Z",
+            "owner": "csinva",
+            "repo": "imodels",
+            "stars": 1613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiML Toolbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-30T15:42:16Z",
+            "owner": "SelfExplainML",
+            "repo": "PiML-Toolbox",
+            "stars": 1286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow Lattice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-30T20:06:20Z",
+            "owner": "tensorflow",
+            "repo": "lattice",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imodelsX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T13:57:25Z",
+            "owner": "csinva",
+            "repo": "imodelsX",
+            "stars": 176
+          }
+        }
+      ],
+      "title": "Interpretable Models"
+    },
+    {
+      "description": "Measuring progress is fundamental to the advancement of any scientific field. As benchmarks play an increasingly central role, they also grow more susceptible to distortion. Read more about it in Sing, S., et al. (2025) The Leaderboard Illusion. arXiv preprint arXiv:2504.2087. In addition to the problem of distursion, we must remember that this is nascent discipline as stated in Weidinger, L., et al. (2025). Toward an evaluation science for generative AI systems. arXiv preprint arXiv:2503.05336. Benchmarks may appear as neutral scoreboards; however, they embody more than that. Each one signifies a particular philosophy: the types of work valued, the definition of success, and what can be safely disregarded. The development of a truly effective benchmark is equally challenging and indispensable as the development of the model itself.\nNew approaches are emerging to established protocol or methodology for conducting AI evaluations such as PREP-Eval v1.0 Pre-registration and REporting Protocol for AI Evaluations or Evals-Consensus.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Langfuse",
+          "description": "Scores",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:52:04Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 33011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promptfoo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:37:10Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opik",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:42:10Z",
+            "owner": "comet-ml",
+            "repo": "opik",
+            "stars": 21344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evals",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T15:29:57Z",
+            "owner": "openai",
+            "repo": "evals",
+            "stars": 19159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepEval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:02:48Z",
+            "owner": "confident-ai",
+            "repo": "deepeval",
+            "stars": 17565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ragas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T07:47:19Z",
+            "owner": "vibrantlabsai",
+            "repo": "ragas",
+            "stars": 15294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LM Evaluation Harness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:24:39Z",
+            "owner": "EleutherAI",
+            "repo": "lm-evaluation-harness",
+            "stars": 13608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phoenix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:57:44Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Giskard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:00:02Z",
+            "owner": "Giskard-AI",
+            "repo": "giskard-oss",
+            "stars": 5748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure AI Evaluation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:01:53Z",
+            "owner": "Azure",
+            "repo": "azure-sdk-for-python",
+            "stars": 5587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple evals",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T22:16:18Z",
+            "owner": "openai",
+            "repo": "simple-evals",
+            "stars": 4597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lmms-eval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T02:22:23Z",
+            "owner": "EvolvingLMMs-Lab",
+            "repo": "lmms-eval",
+            "stars": 4359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PurpleLlama",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T15:21:49Z",
+            "owner": "meta-llama",
+            "repo": "PurpleLlama",
+            "stars": 4346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLMEvalKit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:21:34Z",
+            "owner": "open-compass",
+            "repo": "VLMEvalKit",
+            "stars": 4335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLUE benchmark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T11:41:17Z",
+            "owner": "CLUEbenchmark",
+            "repo": "CLUE",
+            "stars": 4278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EvalScope",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:00:17Z",
+            "owner": "modelscope",
+            "repo": "evalscope",
+            "stars": 3230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HELM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T01:23:17Z",
+            "owner": "stanford-crfm",
+            "repo": "helm",
+            "stars": 2877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LightEval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T13:10:37Z",
+            "owner": "huggingface",
+            "repo": "lighteval",
+            "stars": 2516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlpacaEval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-09T07:23:36Z",
+            "owner": "tatsu-lab",
+            "repo": "alpaca_eval",
+            "stars": 2012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "τ²-bench: Evaluating Conversational Agents in a Dual-Control Environment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:45:12Z",
+            "owner": "sierra-research",
+            "repo": "tau2-bench",
+            "stars": 1788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSWE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T20:05:06Z",
+            "owner": "datacurve-ai",
+            "repo": "deep-swe",
+            "stars": 1365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Petri",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:01:28Z",
+            "owner": "meridianlabs-ai",
+            "repo": "inspect_petri",
+            "stars": 1287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yet Another Applied LLM Benchmark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-27T06:25:09Z",
+            "owner": "carlini",
+            "repo": "yet-another-applied-llm-benchmark",
+            "stars": 1065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WindowsAgentArena",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T19:58:37Z",
+            "owner": "microsoft",
+            "repo": "WindowsAgentArena",
+            "stars": 886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARES",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-28T11:25:50Z",
+            "owner": "stanford-futuredata",
+            "repo": "ARES",
+            "stars": 732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RewardBench: Evaluating Reward Models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-16T05:50:29Z",
+            "owner": "allenai",
+            "repo": "reward-bench",
+            "stars": 731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLGym",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-10T20:00:53Z",
+            "owner": "facebookresearch",
+            "repo": "MLGym",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KLUE: Korean Language Understanding Evaluation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T05:52:33Z",
+            "owner": "KLUE-benchmark",
+            "repo": "KLUE",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SnitchBench",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-20T23:35:15Z",
+            "owner": "T3-Content",
+            "repo": "SnitchBench",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMMU",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T02:29:26Z",
+            "owner": "MMMU-Benchmark",
+            "repo": "MMMU",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+          "description": "Epoch Dashboard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-30T21:12:05Z",
+            "owner": "idavidrein",
+            "repo": "gpqa",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JGLUE: Japanese General Language Understanding Evaluation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-31T04:28:49Z",
+            "owner": "yahoojapan",
+            "repo": "JGLUE",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moonshoot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T03:26:13Z",
+            "owner": "aiverify-foundation",
+            "repo": "moonshot",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verdict",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-05T03:20:00Z",
+            "owner": "haizelabs",
+            "repo": "verdict",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlagEval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-24T03:26:41Z",
+            "owner": "flageval-baai",
+            "repo": "FlagEval",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Banana-lyzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-01T16:49:05Z",
+            "owner": "reworkd",
+            "repo": "bananalyzer",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-11T11:26:27Z",
+            "owner": "prometheus-eval",
+            "repo": "prometheus",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HAL Harness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-01T16:40:48Z",
+            "owner": "princeton-pli",
+            "repo": "hal-harness",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BALROG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T10:40:53Z",
+            "owner": "balrog-ai",
+            "repo": "BALROG",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FMBench",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-11T15:02:22Z",
+            "owner": "aws-samples",
+            "repo": "foundation-model-benchmarking-tool",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCPBench: A Benchmark for Evaluating MCP Servers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-03T02:11:07Z",
+            "owner": "modelscope",
+            "repo": "MCPBench",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SALAD-BENCH",
+          "description": "Article",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-08T16:02:56Z",
+            "owner": "OpenSafetyLab",
+            "repo": "SALAD-BENCH",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StrongREJECT jailbreak benchmark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-07T16:34:26Z",
+            "owner": "dsbowen",
+            "repo": "strong_reject",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Political Even-handedness Evaluation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T19:57:06Z",
+            "owner": "anthropics",
+            "repo": "political-neutrality-eval",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BIG-Bench Extra Hard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-07T14:25:47Z",
+            "owner": "google-deepmind",
+            "repo": "bbeh",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DELEGATE-52",
+          "description": "Paper LLMs Corrupt Your Documents When You Delegate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T03:31:45Z",
+            "owner": "microsoft",
+            "repo": "delegate52",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MalayMMLU",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-13T06:38:54Z",
+            "owner": "UMxYTL-AI-Labs",
+            "repo": "MalayMMLU",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-14T05:18:53Z",
+            "owner": "AI4Bharat",
+            "repo": "FBI",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selene Mini",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-14T11:14:05Z",
+            "owner": "atla-ai",
+            "repo": "selene-mini",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OffsetBias: Leveraging Debiased Data for Tuning Evaluators",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-11T08:00:50Z",
+            "owner": "ncsoft",
+            "repo": "offsetbias",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TealTiger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:27:32Z",
+            "owner": "agentguard-ai",
+            "repo": "tealtiger",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AbsenceBench",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-23T15:57:47Z",
+            "owner": "harvey-fin",
+            "repo": "absence-bench",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Humanity's Last Exam (HLE)-Verified",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T10:56:05Z",
+            "owner": "SKYLENAGE-AI",
+            "repo": "HLE-Verified",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForesightSafety-Bench",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T09:40:20Z",
+            "owner": "Beijing-AISI",
+            "repo": "ForesightSafety-Bench",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DarkBench",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-06T20:47:40Z",
+            "owner": "smarter",
+            "repo": "DarkBench",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BabyReasoningBench",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T15:38:59Z",
+            "owner": "kaustubhdhole",
+            "repo": "baby-reasoning-bench",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XEvalAD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-07T04:50:36Z",
+            "owner": "SabaFathi",
+            "repo": "XEvalAD",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Inspect",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Inspect Petri Dish",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-28T17:24:29Z",
+                "owner": "meridianlabs-ai",
+                "repo": "petri_dish",
+                "stars": 9
+              }
+            }
+          ]
+        }
+      ],
+      "title": "LLM Evaluations and Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NNI: Neural Network Intelligence",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-03T10:55:10Z",
+            "owner": "microsoft",
+            "repo": "nni",
+            "stars": 14365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoKeras",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-25T02:26:35Z",
+            "owner": "keras-team",
+            "repo": "autokeras",
+            "stars": 9327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto-Sklearn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T14:03:15Z",
+            "owner": "automl",
+            "repo": "auto-sklearn",
+            "stars": 8128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WeightWatcher",
+          "description": "(Examples)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-11T16:40:41Z",
+            "owner": "CalculatedContent",
+            "repo": "WeightWatcher",
+            "stars": 1771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow Model Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T06:56:48Z",
+            "owner": "tensorflow",
+            "repo": "model-analysis",
+            "stars": 1266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "performance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-12T07:55:46Z",
+            "owner": "easystats",
+            "repo": "performance",
+            "stars": 1150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rliable",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-12T20:48:27Z",
+            "owner": "google-research",
+            "repo": "rliable",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LOFO Importance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-14T12:14:55Z",
+            "owner": "aerdem4",
+            "repo": "lofo-importance",
+            "stars": 870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yardstick",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-07T22:41:09Z",
+            "owner": "tidymodels",
+            "repo": "yardstick",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLmetrics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-04-13T23:29:29Z",
+            "owner": "yanyachen",
+            "repo": "MLmetrics",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auditor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-01-09T23:32:23Z",
+            "owner": "ModelOriented",
+            "repo": "auditor",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "model-diagnostics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-26T16:26:10Z",
+            "owner": "lorentzenchr",
+            "repo": "model-diagnostics",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EloML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-06-17T16:24:39Z",
+            "owner": "ModelOriented",
+            "repo": "EloML",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLmetrics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-21T20:16:25Z",
+            "owner": "serkor1",
+            "repo": "SLmetrics",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Performance (& Automated ML)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SEAL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T04:34:37Z",
+            "owner": "microsoft",
+            "repo": "SEAL",
+            "stars": 4007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow Privacy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T08:56:21Z",
+            "owner": "tensorflow",
+            "repo": "privacy",
+            "stars": 2022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diffprivlib",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-17T20:40:13Z",
+            "owner": "IBM",
+            "repo": "differential-privacy-library",
+            "stars": 920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Privacy Meter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-26T02:58:53Z",
+            "owner": "privacytrustlab",
+            "repo": "ml_privacy_meter",
+            "stars": 723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JAX-Privacy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:53:54Z",
+            "owner": "google-deepmind",
+            "repo": "jax_privacy",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diffpriv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-07-01T05:30:18Z",
+            "owner": "brubinstein",
+            "repo": "diffpriv",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discrete Gaussian for Differential Privacy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-06-16T23:18:13Z",
+            "owner": "IBM",
+            "repo": "discrete-gaussian-differential-privacy",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyVacy: Privacy Algorithms for PyTorch",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Privacy"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TextAttack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:27:53Z",
+            "owner": "QData",
+            "repo": "TextAttack",
+            "stars": 3460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rival AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-14T11:47:53Z",
+            "owner": "sarthakrastogi",
+            "repo": "rival",
+            "stars": 108
+          }
+        }
+      ],
+      "title": "Red Teaming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Guardrails",
+          "description": "Guardrails Hub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:45:56Z",
+            "owner": "guardrails-ai",
+            "repo": "guardrails",
+            "stars": 7279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adversarial Robustness Toolbox (ART)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T07:01:28Z",
+            "owner": "Trusted-AI",
+            "repo": "adversarial-robustness-toolbox",
+            "stars": 6171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foolbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-03T08:37:14Z",
+            "owner": "bethgelab",
+            "repo": "foolbox",
+            "stars": 2972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Factool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-19T20:27:12Z",
+            "owner": "GAIR-NLP",
+            "repo": "factool",
+            "stars": 935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BackdoorBench",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-04T08:28:38Z",
+            "owner": "SCLBD",
+            "repo": "BackdoorBench",
+            "stars": 616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autoguardrails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T04:13:31Z",
+            "owner": "SantanderAI",
+            "repo": "autoguardrails",
+            "stars": 129
+          }
+        }
+      ],
+      "title": "Robustness"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Garak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:23:44Z",
+            "owner": "NVIDIA",
+            "repo": "garak",
+            "stars": 8789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bandit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T03:25:32Z",
+            "owner": "PyCQA",
+            "repo": "bandit",
+            "stars": 8209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeMo Guardrails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:11:19Z",
+            "owner": "NVIDIA-NeMo",
+            "repo": "Guardrails",
+            "stars": 6931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safety CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T19:53:06Z",
+            "owner": "pyupio",
+            "repo": "safety",
+            "stars": 1995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen3Guard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-21T02:27:12Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3Guard",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diotra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:33:02Z",
+            "owner": "usnistgov",
+            "repo": "dioptra",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model Inversion Attack ToolBox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T02:57:36Z",
+            "owner": "ffhibnese",
+            "repo": "Model-Inversion-Attack-ToolBox",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wildguard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-02T17:32:12Z",
+            "owner": "allenai",
+            "repo": "wildguard",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAXE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T09:11:37Z",
+            "owner": "raxe-ai",
+            "repo": "raxe-ce",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIxploit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-24T08:09:34Z",
+            "owner": "AINTRUST-AI",
+            "repo": "aixploit",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Safety"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "detect-secrets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-02T17:10:40Z",
+            "owner": "Yelp",
+            "repo": "detect-secrets",
+            "stars": 4618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Guard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-08T23:58:40Z",
+            "owner": "protectai",
+            "repo": "llm-guard",
+            "stars": 3201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counterfit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-18T13:29:17Z",
+            "owner": "Azure",
+            "repo": "counterfit",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modelscan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-18T21:14:19Z",
+            "owner": "protectai",
+            "repo": "modelscan",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyRIT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-03-25T01:18:52Z",
+            "owner": "Azure",
+            "repo": "PyRIT",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turing Data Safe Haven",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T08:23:56Z",
+            "owner": "alan-turing-institute",
+            "repo": "data-safe-haven",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resk-LLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-20T20:30:38Z",
+            "owner": "Resk-Security",
+            "repo": "Resk-LLM",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Snorkel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T19:59:20Z",
+            "owner": "snorkel-team",
+            "repo": "snorkel",
+            "stars": 6002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDV",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:03:27Z",
+            "owner": "sdv-dev",
+            "repo": "SDV",
+            "stars": 3543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Curator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T07:54:05Z",
+            "owner": "bespokelabsai",
+            "repo": "curator",
+            "stars": 1717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YData Synthetic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-23T12:34:53Z",
+            "owner": "Data-Centric-AI-Community",
+            "repo": "fg-data-synthetic",
+            "stars": 1651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gretel Synthetics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-06-24T21:44:06Z",
+            "owner": "gretelai",
+            "repo": "gretel-synthetics",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartNoise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-01-06T17:26:12Z",
+            "owner": "opendp",
+            "repo": "smartnoise-core",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataSynthesizer: Privacy-Preserving Synthetic Datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-15T15:22:56Z",
+            "owner": "DataResponsibly",
+            "repo": "DataSynthesizer",
+            "stars": 276
+          }
+        }
+      ],
+      "title": "Synthetic Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CodeCarbon",
+          "description": "Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:35:00Z",
+            "owner": "mlco2",
+            "repo": "codecarbon",
+            "stars": 1897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carbon Tracker",
+          "description": "Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-16T19:59:53Z",
+            "owner": "saintslab",
+            "repo": "carbontracker",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eco2AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-10T22:38:50Z",
+            "owner": "sb-ai-lab",
+            "repo": "Eco2AI",
+            "stars": 277
+          }
+        }
+      ],
+      "title": "Sustainability"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deepchecks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-28T12:07:44Z",
+            "owner": "deepchecks",
+            "repo": "deepchecks",
+            "stars": 4041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responsible AI Toolbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-29T18:27:55Z",
+            "owner": "microsoft",
+            "repo": "responsible-ai-toolbox",
+            "stars": 1820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responsible AI Widgets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-29T18:27:55Z",
+            "owner": "microsoft",
+            "repo": "responsible-ai-toolbox",
+            "stars": 1820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dr. Why",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-02-21T16:34:36Z",
+            "owner": "ModelOriented",
+            "repo": "DrWhy",
+            "stars": 688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeno Hub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-05-26T11:55:20Z",
+            "owner": "zeno-ml",
+            "repo": "zeno-hub",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "(RAI) Toolkit"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MarkLLM: An Open-Source Toolkit for LLM Watermarking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T14:28:38Z",
+            "owner": "THU-BPM",
+            "repo": "MarkLLM",
+            "stars": 1026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SynthID Text",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T21:40:04Z",
+            "owner": "google-deepmind",
+            "repo": "synthid-text",
+            "stars": 965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioSeal: Proactive Localized Watermarking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T17:27:05Z",
+            "owner": "facebookresearch",
+            "repo": "audioseal",
+            "stars": 768
+          }
+        }
+      ],
+      "title": "(AI) Watermarking"
+    },
+    {
+      "description": "Contributors with over 50 edits can be named coauthors in the citation of visible names. Otherwise, all contributors with fewer than 50 edits are included under \"et al.\"",
+      "items": [],
+      "title": "Citing this repository"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bibtex"
+    },
+    {
+      "description": "ACM (Association for Computing Machinery)\nCurto, J., et al. 2026. Awesome Responsible Artificial Intelligence. GitHub. https://github.com/AthenaCore/AwesomeResponsibleAI.\nAPA (American Psychological Association) 7th Edition\nCurto, J., et al. (2026). Awesome Responsible Artificial Intelligence. GitHub. https://github.com/AthenaCore/AwesomeResponsibleAI.\nChicago Manual of Style 17th Edition\nCurto, J., et al. \"Awesome Responsible Artificial Intelligence.\" GitHub. Last modified 2026. https://github.com/AthenaCore/AwesomeResponsibleAI.\nMLA (Modern Language Association) 9th Edition\nCurto, J., et al. \"Awesome Responsible Artificial Intelligence\". GitHub, 2026, https://github.com/AthenaCore/AwesomeResponsibleAI. Accessed 10 Jul 2026.",
+      "items": [],
+      "title": "ACM, APA, Chicago, and MLA"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:01:54.496Z",
+    "original_repository": "AthenaCore/AwesomeResponsibleAI",
+    "original_repository_sha": "141fc98129c033a7bce7beb6da544c988e92ac5c",
+    "enhanced_repository": "enhansome/enhansome-AwesomeResponsibleAI",
+    "enhanced_repository_description": null,
+    "title": "Awesome Responsible AI with stars"
+  }
+}
