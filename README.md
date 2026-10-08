@@ -98,7 +98,7 @@ AI is a transformative and dual-side technology prone to reshape industries, yet
 
 ### Explainability/Interpretability/Mechanical Interpretability
 
-* Lundberg, S. M. et al. (2017). **A unified approach to interpreting model predictions**. Advances in neural information processing systems, 30. [Article](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions), [Github](https://github.com/slundberg/shap) ⭐ 25,797 | 🐛 996 | 🌐 Jupyter Notebook | 📅 2026-10-06 `University of Washington`
+* Lundberg, S. M. et al. (2017). **A unified approach to interpreting model predictions**. Advances in neural information processing systems, 30. [Article](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions), [Github](https://github.com/slundberg/shap) ⭐ 25,799 | 🐛 997 | 🌐 Jupyter Notebook | 📅 2026-10-06 `University of Washington`
 * Ribeiro, M. T. et al. (2016, August). **"Why should i trust you?" Explaining the predictions of any classifier**. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). [Article](https://arxiv.org/abs/1602.04938), [Github](https://github.com/marcotcr/lime) ⭐ 12,166 | 🐛 133 | 🌐 JavaScript | 📅 2024-07-25 `University of Washington`
 * Dhurandhar, A. et al. (2018). **Explanations based on the missing: Towards contrastive explanations with pertinent negatives**. Advances in neural information processing systems, 31. [Article](https://papers.nips.cc/paper/7340-explanations-based-on-the-missing-towards-contrastive-explanations-with-pertinent-negatives) `University of Michigan` `IBM Research`
 * Dhurandhar, A. et al. (2018). **Improving simple models with confidence profiles**. Advances in Neural Information Processing Systems, 31. [Article](https://papers.nips.cc/paper/8231-improving-simple-models-with-confidence-profiles) `IBM Research`
@@ -188,7 +188,7 @@ This section features a curated selection of books.
 
 ### Open Access
 
-* Fourrier, C. and et all. (2024) **LLM Evaluation Guidebook**. Github Repository. [Web](https://github.com/huggingface/evaluation-guidebook) ⭐ 2,150 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-12-03 `LLM Evaluation`
+* Fourrier, C. and et all. (2024) **LLM Evaluation Guidebook**. Github Repository. [Web](https://github.com/huggingface/evaluation-guidebook) ⭐ 2,152 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-12-03 `LLM Evaluation`
 * Vizquez, S. & Kubersky, W. (2025) **The Little Book of ML Metrics**. [Book](https://github.com/NannyML/The-Little-Book-of-ML-Metrics) ⭐ 1,011 | 🐛 97 | 🌐 Jupyter Notebook | 📅 2026-10-06 `ML Evaluation`
 * Barocas, S., Hardt, M., & Narayanan, A. (2023). **Fairness and machine learning: Limitations and opportunities**. MIT press. [Book](https://www.fairmlbook.org)
 * Barrett, M., Gerke, T. & D’Agostino McGowa, L. (2024). **Causal Inference in R** [Book](https://www.r-causal.org) `Causal Inference` `R`
@@ -281,7 +281,7 @@ This section features a curated selection of data sets.
 * [Open Ethics Data Passport](https://openethics.ai/oedp/) `Open Ethics`
 * [EU AI Act Obligation-to-Evidence Dataset](https://github.com/Kroniquedubaboo/eu-ai-act-obligation-evidence-dataset) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-03 `CC BY 4.0`
 
-If you are looking for public data sets for your project, this is a [curated collection](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,355 | 🐛 161 | 📅 2026-10-06.
+If you are looking for public data sets for your project, this is a [curated collection](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,381 | 🐛 164 | 📅 2026-10-06.
 
 ## Databases
 
@@ -295,7 +295,7 @@ This section features a curated selection of databases focused on tracking incid
 | [AI Hallucination Cases](https://www.damiencharlotin.com/hallucinations/)                                                          | N/A                                                                                                                                                              | Damien Charlotin     | This database tracks legal decisions1  in cases where generative AI produced hallucinated content – typically fake citations, but also other types of arguments.                                                                                                                                                                                                                                                                                    | Deepfakes, Misinformation |
 | [AI Risk Repository](https://airisk.mit.edu)                                                                                       | [The AI Risk Repository: A Comprehensive Meta-Review, Database, and Taxonomy of Risks From Artificial Intelligence](https://arxiv.org/abs/2408.12622)            | MIT                  | A comprehensive living database of over 1600 AI risks categorized by their cause and risk domain.                                                                                                                                                                                                                                                                                                                                                   | AI Risk                   |
 | [Deployer AI Risk Register (DARR)](https://www.airiskdeployer.org)                                                                 | [Zenodo](https://doi.org/10.5281/zenodo.21223592)                                                                                                                | MindXO               | Canonical AI risks for organizations that deploy AI systems, consolidated from the MIT AI Risk Repository and crosswalked to ISO/IEC 42001, the EU AI Act, and MITRE ATLAS. Open data (CC BY 4.0); [source on GitHub](https://github.com/Myr-Aya/darr-deployer-ai-risk-register) ⭐ 4 \| 🐛 6 \| 🌐 Python \| 📅 2026-07-18.                                                                                                                         | AI Risk                   |
-| [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) ⭐ 14 \| 🐛 1 \| 🌐 HTML \| 📅 2026-10-07 | N/A                                                                                                                                                              | Continuum AI         | An open database of real-world AI agent security incidents: 354 records from 2025 onward, each with at least one primary source, and each flagged for whether harm to a victim was confirmed (`real_harm`) and whether AI involvement is confirmed, disputed or unverified (`ai_involvement`), so demonstrations are kept apart from actual damage. Also covers agent-specific policy and regulation. Open data (CC BY 4.0), with JSON/CSV exports. | AI Agents, AI Security    |
+| [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) ⭐ 14 \| 🐛 0 \| 🌐 HTML \| 📅 2026-10-08 | N/A                                                                                                                                                              | Continuum AI         | An open database of real-world AI agent security incidents: 354 records from 2025 onward, each with at least one primary source, and each flagged for whether harm to a victim was confirmed (`real_harm`) and whether AI involvement is confirmed, disputed or unverified (`ai_involvement`), so demonstrations are kept apart from actual damage. Also covers agent-specific policy and regulation. Open data (CC BY 4.0), with JSON/CSV exports. | AI Agents, AI Security    |
 | [Political Deepfakes Incidents Database](https://airtable.com/appOU03dlKuBdbmty/shrEkrIYINbrcKQ3z/tbleGYjNLn2D4Xfzs)               | [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://arxiv.org/abs/2409.15319) | Purdue University    | A collection of politically-salient deepfakes, encompassing synthetically-created videos, images, and less-sophisticated \`cheapfakes.'                                                                                                                                                                                                                                                                                                             | Deepfakes                 |
 
 This section is under review and the rest of entries will be added to the table with extended information.
@@ -853,12 +853,12 @@ This section is under review and the rest of entries will be added to the table 
 
 This subsection includes dedicated platforms, tools, and control planes for governing AI agent behavior, enforcing policies, and maintaining trust at runtime.
 
-* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 60,274 | 🐛 5,240 | 🌐 Python | 📅 2026-10-07 `liteLLM`
-* [Agent Governance Toolkit (AGT)](https://github.com/microsoft/agent-governance-toolkit) ⭐ 6,402 | 🐛 77 | 🌐 Python | 📅 2026-10-07 `Microsoft`
-* [Context Forge](https://github.com/IBM/mcp-context-forge) ⭐ 4,581 | 🐛 994 | 🌐 Python | 📅 2026-10-07 `IBM`
+* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 60,357 | 🐛 5,338 | 🌐 Python | 📅 2026-10-08 `liteLLM`
+* [Agent Governance Toolkit (AGT)](https://github.com/microsoft/agent-governance-toolkit) ⭐ 6,408 | 🐛 75 | 🌐 Python | 📅 2026-10-08 `Microsoft`
+* [Context Forge](https://github.com/IBM/mcp-context-forge) ⭐ 4,584 | 🐛 994 | 🌐 Python | 📅 2026-10-08 `IBM`
 * [Cordum](https://github.com/cordum-io/cordum) ⭐ 509 | 🐛 31 | 🌐 Go | 📅 2026-10-06 `Cordum IO`
 * [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) ⭐ 467 | 🐛 15 | 🌐 Python | 📅 2026-01-12 `Invariant Labs`
-* [Verifywise](https://github.com/verifywise-ai/verifywise) ⭐ 360 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-07 `VerifyWise`
+* [Verifywise](https://github.com/verifywise-ai/verifywise) ⭐ 360 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-08 `VerifyWise`
 * [Coral Server](https://github.com/Coral-Protocol/coral-server) ⭐ 253 | 🐛 82 | 🌐 Kotlin | 📅 2026-08-25 `CoralOS`
 * [TrinityGuard](https://github.com/AI45Lab/TrinityGuard) ⭐ 220 | 🐛 2 | 🌐 Python | 📅 2026-06-25 `Shanghai Artificial Intelligence Laboratory` `AI45 Lab`
 * [Gate22](https://github.com/aipotheosis-labs/gate22) ⭐ 180 | 🐛 23 | 🌐 TypeScript | 📅 2025-12-12 `Aipotheosis Labs`
@@ -881,7 +881,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 ### Audit
 
-* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 281 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 `TypeScript` - Records an AI agent's run from outside the process — the verbatim model requests and responses, every tool call with its arguments, shell exit codes and file changes — and replays it offline so the recorded run can be re-executed and inspected rather than reconstructed from logs. Local files, nothing uploaded. Makes no compliance claim and has no tamper-evidence; it produces the underlying record, not an attestation about it.
+* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 282 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 `TypeScript` - Records an AI agent's run from outside the process — the verbatim model requests and responses, every tool call with its arguments, shell exit codes and file changes — and replays it offline so the recorded run can be re-executed and inspected rather than reconstructed from logs. Local files, nothing uploaded. Makes no compliance claim and has no tamper-evidence; it produces the underlying record, not an attestation about it.
 * [AIR Blackbox](https://github.com/airblackbox/gateway) ⭐ 23 | 🐛 12 | 🌐 Python | 📅 2026-10-01 `Python` - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 * [PRML / falsify](https://github.com/studio-11-co/falsify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-02 `Python, JS, Go, Rust` `falsify` - Pre-Registered ML Manifest specification (CC BY 4.0). Commits an evaluation claim (metric, comparator, threshold, dataset hash, seed, producer identity) to a SHA-256 hash before the experiment runs. Tamper-evident audit trail; subcategory crosswalks for [EU AI Act Article 12](https://spec.falsify.dev/eu-ai-act/article-12/), [NIST AI RMF](https://spec.falsify.dev/nist-ai-rmf/), [ISO/IEC 42001](https://spec.falsify.dev/iso-42001/). Four byte-equivalent reference implementations across 21 conformance vectors. Zenodo DOI [10.5281/zenodo.20177839](https://doi.org/10.5281/zenodo.20177839), in [SchemaStore](https://www.schemastore.org/) catalog.
 * [Systima Comply](https://github.com/systima-ai/comply) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-25 `TypeScript` `Systima`
@@ -889,8 +889,8 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 ### Causal Inference
 
-* [DoWhy](https://github.com/Microsoft/dowhy) ⭐ 8,338 | 🐛 232 | 🌐 Python | 📅 2026-10-07 `Python` `Microsoft`
-* [CausalPy](https://github.com/pymc-labs/CausalPy) ⭐ 1,201 | 🐛 167 | 🌐 Python | 📅 2026-10-06 `Python`
+* [DoWhy](https://github.com/Microsoft/dowhy) ⭐ 8,339 | 🐛 237 | 🌐 Python | 📅 2026-10-08 `Python` `Microsoft`
+* [CausalPy](https://github.com/pymc-labs/CausalPy) ⭐ 1,201 | 🐛 174 | 🌐 Python | 📅 2026-10-07 `Python`
 * [Causal Inference 360](https://github.com/BiomedSciAI/causallib) ⭐ 835 | 🐛 7 | 🌐 Python | 📅 2026-05-26 `Python`
 * [CausalAI](https://github.com/salesforce/causalai) ⚠️ Archived `Python` `Salesforce`
 * [AIPW: Augmented Inverse Probability Weighting](https://cran.r-project.org/web/packages/AIPW/index.html)
@@ -925,11 +925,11 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 ### Drift
 
-* [phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,740 | 🐛 1,104 | 🌐 Python | 📅 2026-10-07 `Python`
-* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,971 | 🐛 328 | 🌐 Jupyter Notebook | 📅 2026-09-29 `Python`
+* [phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,751 | 🐛 1,117 | 🌐 Python | 📅 2026-10-08 `Python`
+* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,977 | 🐛 328 | 🌐 Jupyter Notebook | 📅 2026-09-29 `Python`
 * [Deepchecks](https://github.com/deepchecks/deepchecks) ⭐ 4,060 | 🐛 269 | 🌐 Python | 📅 2025-12-28 `Python`
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,546 | 🐛 149 | 🌐 Jupyter Notebook | 📅 2025-12-11 `Python`
-* [nannyML](https://github.com/NannyML/nannyml) ⭐ 2,156 | 🐛 5 | 🌐 Python | 📅 2025-07-12 `Python`
+* [nannyML](https://github.com/NannyML/nannyml) ⭐ 2,155 | 🐛 5 | 🌐 Python | 📅 2025-07-12 `Python`
 * [PKBooks](https://github.com/Pushp-Kharat1/pkboost) ⭐ 73 | 🐛 1 | 🌐 Rust | 📅 2026-07-16 `Rust`
 * [drifter](https://cran.r-project.org/web/packages/drifter/) `R`
 
@@ -966,7 +966,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 ### Feature Stores
 
-* [Feast](https://github.com/feast-dev/feast) ⭐ 7,320 | 🐛 463 | 🌐 Python | 📅 2026-10-07 `Python`
+* [Feast](https://github.com/feast-dev/feast) ⭐ 7,323 | 🐛 467 | 🌐 Python | 📅 2026-10-08 `Python`
 * [Featureform](https://github.com/featureform/featureform) ⭐ 1,991 | 🐛 129 | 🌐 Go | 📅 2025-07-03 `Python`
 * [Feathr](https://github.com/feathr-ai/feathr) ⭐ 1,944 | 🐛 165 | 🌐 Scala | 📅 2024-04-04 `Python`
 * [Hopsworks](https://github.com/logicalclocks/hopsworks) ⭐ 1,310 | 🐛 17 | 🌐 Java | 📅 2025-02-10 `Python`
@@ -974,8 +974,8 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 ### Interpretability/Explicability
 
-* [Shap](https://github.com/slundberg/shap) ⭐ 25,797 | 🐛 996 | 🌐 Jupyter Notebook | 📅 2026-10-06 `Python`
-* [captum](https://github.com/pytorch/captum) ⭐ 5,709 | 🐛 79 | 🌐 Python | 📅 2026-10-01 `Python` `PyTorch`
+* [Shap](https://github.com/slundberg/shap) ⭐ 25,799 | 🐛 997 | 🌐 Jupyter Notebook | 📅 2026-10-06 `Python`
+* [captum](https://github.com/pytorch/captum) ⭐ 5,710 | 🐛 79 | 🌐 Python | 📅 2026-10-01 `Python` `PyTorch`
 * [Transformer Debugger](https://github.com/openai/transformer-debugger) ⭐ 4,121 | 🐛 11 | 🌐 Python | 📅 2026-04-15 `Python` `OpenAI`
 * [Shapash](https://github.com/maif/shapash) ⭐ 3,260 | 🐛 51 | 🌐 Jupyter Notebook | 📅 2026-10-07 `Python`
 * [dtreeviz](https://github.com/parrt/dtreeviz) ⭐ 3,159 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2026-01-02 `Python`
@@ -983,9 +983,9 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 * [eli5](https://github.com/TeamHG-Memex/eli5) ⭐ 2,850 | 🐛 162 | 🌐 Jupyter Notebook | 📅 2026-04-08 `Python`
 * [Alibi Explain](https://github.com/SeldonIO/alibi) ⭐ 2,648 | 🐛 160 | 🌐 Python | 📅 2025-10-17 `Python`
 * [ExplainerHub](https://explainerdashboard.readthedocs.io/en/latest/index.html) [in github](https://github.com/oegedijk/explainerdashboard) ⭐ 2,511 | 🐛 0 | 🌐 Python | 📅 2026-02-11 `Python`
-* [Diverse Counterfactual Explanations (DiCE)](https://github.com/interpretml/DiCE) ⭐ 1,528 | 🐛 105 | 🌐 Python | 📅 2025-07-13 `Python` `Microsoft`
+* [Diverse Counterfactual Explanations (DiCE)](https://github.com/interpretml/DiCE) ⭐ 1,529 | 🐛 105 | 🌐 Python | 📅 2025-07-13 `Python` `Microsoft`
 * [innvestigate](https://github.com/albermax/innvestigate) ⭐ 1,308 | 🐛 61 | 🌐 Python | 📅 2025-04-11 `Python` `Neural Networks`
-* [XAI - An eXplainability toolbox for machine learning](https://github.com/EthicalML/xai) ⭐ 1,265 | 🐛 1 | 🌐 Python | 📅 2025-11-29 `Python` `The Institute for Ethical Machine Learning`
+* [XAI - An eXplainability toolbox for machine learning](https://github.com/EthicalML/xai) ⭐ 1,266 | 🐛 1 | 🌐 Python | 📅 2025-11-29 `Python` `The Institute for Ethical Machine Learning`
 * [Automated interpretability](https://github.com/openai/automated-interpretability) ⚠️ Archived `Python` `OpenAI`
 * [OmniXAI](https://github.com/salesforce/OmniXAI) ⭐ 975 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-06-02 `Python` `Salesforce`
 * [Human Learn](https://github.com/koaning/human-learn) ⭐ 833 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-03-09 `Python`
@@ -1038,8 +1038,8 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 ### Interpretable Models
 
-* [interpretML](https://github.com/interpretml/interpret) ⭐ 6,956 | 🐛 47 | 🌐 C++ | 📅 2026-10-05 `Python` `Microsoft` [`R`](https://cran.r-project.org/web/packages/interpret/index.html)
-* [imodels](https://github.com/csinva/imodels) ⭐ 1,624 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-10-06 `Python`
+* [interpretML](https://github.com/interpretml/interpret) ⭐ 6,956 | 🐛 46 | 🌐 C++ | 📅 2026-10-08 `Python` `Microsoft` [`R`](https://cran.r-project.org/web/packages/interpret/index.html)
+* [imodels](https://github.com/csinva/imodels) ⭐ 1,627 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-10-06 `Python`
 * [PiML Toolbox](https://github.com/SelfExplainML/PiML-Toolbox) ⭐ 1,287 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2025-03-30 `Python`
 * [Tensorflow Lattice](https://github.com/tensorflow/lattice) ⚠️ Archived `Python` `Google`
 * [imodelsX](https://github.com/csinva/imodelsX) ⭐ 177 | 🐛 5 | 🌐 Python | 📅 2026-04-22 `Python`
@@ -1056,37 +1056,37 @@ Measuring progress is fundamental to the advancement of any scientific field. As
 New approaches are emerging to established protocol or methodology for conducting AI evaluations such as [PREP-Eval v1.0
 Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.github.io/prep-eval/) or [Evals-Consensus](https://evals-consensus.ai).
 
-* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 35,475 | 🐛 1,020 | 🌐 TypeScript | 📅 2026-10-07 [Scores](https://langfuse.com/docs/scores/overview) `Python`
-* [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,782 | 🐛 713 | 🌐 TypeScript | 📅 2026-10-07 `Python`
-* [opik](https://github.com/comet-ml/opik) ⭐ 22,422 | 🐛 188 | 🌐 Python | 📅 2026-10-07 `Comet` `Python`
-* [evals](https://github.com/openai/evals) ⭐ 19,564 | 🐛 346 | 🌐 Python | 📅 2026-04-14 `Python` `OpenAI`
-* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 18,674 | 🐛 711 | 🌐 Python | 📅 2026-10-05 `Python`
-* [ragas](https://github.com/explodinggradients/ragas) ⭐ 15,951 | 🐛 628 | 🌐 Python | 📅 2026-02-24 `Python`
-* [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,145 | 🐛 1,127 | 🌐 Python | 📅 2026-09-14 `Python`
-* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,740 | 🐛 1,104 | 🌐 Python | 📅 2026-10-07 `Arize AI` `Python`
-* [Giskard](https://github.com/Giskard-AI/giskard) ⭐ 5,868 | 🐛 73 | 🌐 Python | 📅 2026-10-07 `Python`
-* [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) ⭐ 5,614 | 🐛 1,130 | 🌐 Python | 📅 2026-10-07 `Python` `Microsoft`
+* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 35,517 | 🐛 1,025 | 🌐 TypeScript | 📅 2026-10-08 [Scores](https://langfuse.com/docs/scores/overview) `Python`
+* [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,813 | 🐛 714 | 🌐 TypeScript | 📅 2026-10-08 `Python`
+* [opik](https://github.com/comet-ml/opik) ⭐ 22,449 | 🐛 189 | 🌐 Python | 📅 2026-10-08 `Comet` `Python`
+* [evals](https://github.com/openai/evals) ⭐ 19,571 | 🐛 346 | 🌐 Python | 📅 2026-04-14 `Python` `OpenAI`
+* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 18,702 | 🐛 708 | 🌐 Python | 📅 2026-10-07 `Python`
+* [ragas](https://github.com/explodinggradients/ragas) ⭐ 15,962 | 🐛 626 | 🌐 Python | 📅 2026-02-24 `Python`
+* [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,157 | 🐛 1,138 | 🌐 Python | 📅 2026-09-14 `Python`
+* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,751 | 🐛 1,117 | 🌐 Python | 📅 2026-10-08 `Arize AI` `Python`
+* [Giskard](https://github.com/Giskard-AI/giskard) ⭐ 5,875 | 🐛 70 | 🌐 Python | 📅 2026-10-08 `Python`
+* [Azure AI Evaluation](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation) ⭐ 5,614 | 🐛 1,143 | 🌐 Python | 📅 2026-10-08 `Python` `Microsoft`
 * [simple evals](https://github.com/openai/simple-evals) ⭐ 4,651 | 🐛 66 | 🌐 Python | 📅 2026-04-22 `Python` `OpenAI`
-* [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) ⭐ 4,446 | 🐛 54 | 🌐 Python | 📅 2026-10-07 `Python`
-* [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ⭐ 4,432 | 🐛 327 | 🌐 Python | 📅 2026-09-30 `Python`
+* [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) ⭐ 4,448 | 🐛 55 | 🌐 Python | 📅 2026-10-07 `Python`
+* [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ⭐ 4,433 | 🐛 324 | 🌐 Python | 📅 2026-10-08 `Python`
 * [PurpleLlama](https://github.com/meta-llama/PurpleLlama) ⭐ 4,423 | 🐛 90 | 🌐 Python | 📅 2026-09-29 `Python` `Meta`
 * [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE) ⭐ 4,284 | 🐛 82 | 🌐 Python | 📅 2026-02-06 `Python`
-* [EvalScope](https://github.com/modelscope/evalscope) ⭐ 3,505 | 🐛 43 | 🌐 Python | 📅 2026-09-30 `Python`
+* [EvalScope](https://github.com/modelscope/evalscope) ⭐ 3,508 | 🐛 36 | 🌐 Python | 📅 2026-10-08 `Python`
 * [HELM](https://github.com/stanford-crfm/helm) ⭐ 2,935 | 🐛 112 | 🌐 Python | 📅 2026-09-01 `Python`
-* [LightEval](https://github.com/huggingface/lighteval) ⭐ 2,553 | 🐛 430 | 🌐 Python | 📅 2026-10-06 `HuggingFace` `Python`
-* [τ²-bench: Evaluating Conversational Agents in a Dual-Control Environment](https://github.com/sierra-research/tau2-bench) ⭐ 2,180 | 🐛 255 | 🌐 Python | 📅 2026-10-07 `Python`
-* [Future AGI](https://github.com/future-agi/future-agi) ⭐ 2,116 | 🐛 1,047 | 🌐 Python | 📅 2026-10-07 `Python` `TypeScript`
-* [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ⭐ 2,020 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2025-08-09 `Python`
-* [DeepSWE](https://github.com/datacurve-ai/deep-swe) ⭐ 1,797 | 🐛 94 | 🌐 Python | 📅 2026-08-26 `Python`
-* [Petri](https://github.com/safety-research/petri) ⭐ 1,362 | 🐛 42 | 🌐 Python | 📅 2026-10-02 `Python`
+* [LightEval](https://github.com/huggingface/lighteval) ⭐ 2,554 | 🐛 429 | 🌐 Python | 📅 2026-10-06 `HuggingFace` `Python`
+* [τ²-bench: Evaluating Conversational Agents in a Dual-Control Environment](https://github.com/sierra-research/tau2-bench) ⭐ 2,188 | 🐛 258 | 🌐 Python | 📅 2026-10-07 `Python`
+* [Future AGI](https://github.com/future-agi/future-agi) ⭐ 2,124 | 🐛 1,051 | 🌐 Python | 📅 2026-10-08 `Python` `TypeScript`
+* [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) ⭐ 2,019 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2025-08-09 `Python`
+* [DeepSWE](https://github.com/datacurve-ai/deep-swe) ⭐ 1,798 | 🐛 94 | 🌐 Python | 📅 2026-08-26 `Python`
+* [Petri](https://github.com/safety-research/petri) ⭐ 1,364 | 🐛 42 | 🌐 Python | 📅 2026-10-02 `Python`
 * [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) ⭐ 1,070 | 🐛 11 | 🌐 Python | 📅 2025-04-27 `Python`
-* [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) ⭐ 906 | 🐛 39 | 🌐 Python | 📅 2026-04-13 `Python` `Microsoft`
+* [WindowsAgentArena](https://github.com/microsoft/windowsagentarena) ⭐ 907 | 🐛 39 | 🌐 Python | 📅 2026-04-13 `Python` `Microsoft`
 * [RewardBench: Evaluating Reward Models](https://github.com/allenai/reward-bench) ⭐ 741 | 🐛 3 | 🌐 Python | 📅 2026-09-30 `Python` `Ai2`
-* [ARES](https://github.com/stanford-futuredata/ARES) ⭐ 737 | 🐛 23 | 🌐 Python | 📅 2025-03-28 `Python` `Stanford Future Data Systems`
+* [ARES](https://github.com/stanford-futuredata/ARES) ⭐ 738 | 🐛 23 | 🌐 Python | 📅 2025-03-28 `Python` `Stanford Future Data Systems`
 * [MLGym](https://github.com/facebookresearch/MLGym) ⚠️ Archived `Python` `Facebook` `Agents`
 * [KLUE: Korean Language Understanding Evaluation](https://github.com/KLUE-benchmark/KLUE) ⭐ 606 | 🐛 19 | 📅 2026-06-30 `Python`
 * [SnitchBench](https://github.com/t3dotgg/SnitchBench) ⭐ 605 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-20 `Python`
-* [MMMU](https://github.com/MMMU-Benchmark/MMMU) ⭐ 597 | 🐛 51 | 🌐 Python | 📅 2026-07-28 `Apple` `Python`
+* [MMMU](https://github.com/MMMU-Benchmark/MMMU) ⭐ 597 | 🐛 48 | 🌐 Python | 📅 2026-07-28 `Apple` `Python`
 * [GPQA: A Graduate-Level Google-Proof Q\&A Benchmark](https://github.com/idavidrein/gpqa) ⭐ 540 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-09-30 `Python` `dataset` [Epoch Dashboard](https://epoch.ai/benchmarks/gpqa-diamond?view=graph\&tab=release-date)
 * [Moonshoot](https://github.com/aiverify-foundation/moonshot) ⭐ 355 | 🐛 3 | 🌐 Python | 📅 2026-06-10 `AI Verify Foundation` `Python`
 * [JGLUE: Japanese General Language Understanding Evaluation](https://github.com/yahoojapan/JGLUE) ⭐ 350 | 🐛 4 | 🌐 Python | 📅 2025-03-31 `Python`
@@ -1103,7 +1103,7 @@ Pre-registration and REporting Protocol for AI Evaluations](https://prep-eval.gi
 * [Political Even-handedness Evaluation](https://github.com/anthropics/political-neutrality-eval) ⭐ 138 | 🐛 3 | 🌐 Python | 📅 2025-11-13 `Python` `Anthropic AI`
 * [BIG-Bench Extra Hard](https://github.com/google-deepmind/bbeh) ⚠️ Archived `Python` `Deepmind`
 * [DELEGATE-52](https://github.com/microsoft/DELEGATE52) ⭐ 123 | 🐛 3 | 🌐 Python | 📅 2026-06-12 `Python` `Microsoft` Paper [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)
-* [MalayMMLU](https://github.com/UMxYTL-AI-Labs/MalayMMLU) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2026-02-13 `Python` `YTL AI Labs`
+* [MalayMMLU](https://github.com/UMxYTL-AI-Labs/MalayMMLU) ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2026-02-13 `Python` `YTL AI Labs`
 * [TealTiger](https://github.com/agentguard-ai/tealtiger) ⭐ 36 | 🐛 48 | 🌐 TypeScript | 📅 2026-10-06 `Python` `TypeScript`
 * [FBI: Finding Blindspots in LLM Evaluations with Interpretable Checklists](https://github.com/AI4Bharat/FBI) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2025-08-14 `Python`
 * [Selene Mini](https://github.com/atla-ai/selene-mini) ⭐ 30 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-04-14 `Python` `Atla`
@@ -1184,7 +1184,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 
 ### LLM Regulation Compliance
 
-* [Tunix](https://github.com/google/tunix) ⭐ 2,475 | 🐛 450 | 🌐 Python | 📅 2026-10-07 `Python` `Google`
+* [Tunix](https://github.com/google/tunix) ⭐ 2,475 | 🐛 454 | 🌐 Python | 📅 2026-10-08 `Python` `Google`
 * [COMPL-AI](https://compl-ai.org) `Python` `ETH Zurich` `Insait` `LaticeFlow AI`
 
 ### Performance (& Automated ML)
@@ -1194,7 +1194,7 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 * [Auto-Sklearn](https://github.com/automl/auto-sklearn) ⭐ 8,135 | 🐛 209 | 🌐 Python | 📅 2026-09-15 `Python`
 * [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) ⭐ 1,776 | 🐛 120 | 🌐 Python | 📅 2026-05-11 ([Examples](https://github.com/CalculatedContent/WeightWatcher-Examples) ⭐ 11 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-12-24) `Python`
 * [TensorFlow Model Analysis](https://github.com/tensorflow/model-analysis) ⭐ 1,269 | 🐛 16 | 🌐 Python | 📅 2026-08-14 `Python` `Google`
-* [performance](https://github.com/easystats/performance) ⭐ 1,158 | 🐛 101 | 🌐 R | 📅 2026-10-01 `R`
+* [performance](https://github.com/easystats/performance) ⭐ 1,159 | 🐛 101 | 🌐 R | 📅 2026-10-01 `R`
 * [rliable](https://github.com/google-research/rliable) ⚠️ Archived `Python` `Google`
 * [LOFO Importance](https://github.com/aerdem4/lofo-importance) ⭐ 872 | 🐛 3 | 🌐 Python | 📅 2025-02-14 `Python`
 * [yardstick](https://github.com/tidymodels/yardstick) ⭐ 403 | 🐛 35 | 🌐 R | 📅 2026-09-17 `R`
@@ -1230,19 +1230,19 @@ Additional benchmarks can be found [here](https://airtable.com/app83SBBFk9WO25hJ
 
 Language-level tools for expressing, validating, and enforcing authorization policies applicable to agent capability bounds, tool access, and data permissions.
 
-* [Casbin](https://github.com/casbin/casbin) ⭐ 20,435 | 🐛 39 | 🌐 Go | 📅 2026-10-05 `Apache`
-* [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) ⭐ 12,330 | 🐛 307 | 🌐 Go | 📅 2026-10-07
-* [SpiceDB](https://github.com/authzed/spicedb) ⭐ 7,120 | 🐛 165 | 🌐 Go | 📅 2026-10-07 - Google Zanzibar-inspired database for fine-grained, relationship-based authorization. Useful for cross-agent and multi-tenant permission modeling.
-* [Cedar](https://github.com/cedar-policy/cedar) ⭐ 1,769 | 🐛 183 | 🌐 Rust | 📅 2026-10-07 `Amazon`
+* [Casbin](https://github.com/casbin/casbin) ⭐ 20,436 | 🐛 39 | 🌐 Go | 📅 2026-10-05 `Apache`
+* [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) ⭐ 12,333 | 🐛 295 | 🌐 Go | 📅 2026-10-08
+* [SpiceDB](https://github.com/authzed/spicedb) ⭐ 7,125 | 🐛 165 | 🌐 Go | 📅 2026-10-07 - Google Zanzibar-inspired database for fine-grained, relationship-based authorization. Useful for cross-agent and multi-tenant permission modeling.
+* [Cedar](https://github.com/cedar-policy/cedar) ⭐ 1,770 | 🐛 183 | 🌐 Rust | 📅 2026-10-07 `Amazon`
 * [GOPAL](https://github.com/Principled-Evolution/gopal) ⭐ 8 | 🐛 15 | 🌐 Open Policy Agent | 📅 2026-09-19 `Rego` `OPA` `Principled Evolution`
 
 ### Privacy
 
-* [SEAL](https://github.com/Microsoft/SEAL) ⭐ 4,045 | 🐛 113 | 🌐 C++ | 📅 2026-09-14 `Python` `Microsoft`
+* [SEAL](https://github.com/Microsoft/SEAL) ⭐ 4,045 | 🐛 111 | 🌐 C++ | 📅 2026-10-07 `Python` `Microsoft`
 * [Tensorflow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,038 | 🐛 136 | 🌐 Python | 📅 2026-08-26 `Python` `Google`
-* [Diffprivlib](https://github.com/IBM/differential-privacy-library) ⭐ 920 | 🐛 12 | 🌐 Python | 📅 2026-09-23 `Python` `IBM`
+* [Diffprivlib](https://github.com/IBM/differential-privacy-library) ⭐ 920 | 🐛 13 | 🌐 Python | 📅 2026-09-23 `Python` `IBM`
 * [Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) ⭐ 728 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-04-26 `Python` `National University of Singapore`
-* [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) ⭐ 199 | 🐛 26 | 🌐 Python | 📅 2026-10-06 `Python` `DeepMind`
+* [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) ⭐ 199 | 🐛 26 | 🌐 Python | 📅 2026-10-07 `Python` `DeepMind`
 * [diffpriv](https://github.com/brubinstein/diffpriv) ⭐ 69 | 🐛 0 | 🌐 R | 📅 2022-07-01 `R`
 * [Discrete Gaussian for Differential Privacy](https://github.com/IBM/discrete-gaussian-differential-privacy) ⚠️ Archived `Python` `IBM`
 * [BackPACK](https://toiaydcdyywlhzvlob.github.io/backpack) `Python`
@@ -1266,19 +1266,19 @@ Language-level tools for expressing, validating, and enforcing authorization pol
 
 ### Safety
 
-* [Garak](https://github.com/NVIDIA/garak) ⭐ 9,481 | 🐛 488 | 🌐 Python | 📅 2026-10-02 `Python` `Nvidia`
-* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,296 | 🐛 262 | 🌐 Python | 📅 2026-10-06 `Python`
-* [Guardrails](https://github.com/guardrails-ai/guardrails) ⭐ 7,494 | 🐛 72 | 🌐 Python | 📅 2026-10-06 `Python` [Guardrails Hub](https://hub.guardrailsai.com)
-* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,254 | 🐛 261 | 🌐 Python | 📅 2026-10-07 `Python` `Amazon`
-* [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,259 | 🐛 23 | 🌐 Python | 📅 2026-10-07 `Python`
-* [Snyk Agent Scan](https://github.com/snyk/agent-scan) ⭐ 3,120 | 🐛 20 | 🌐 Python | 📅 2026-10-06 `Python`
-* [Foolbox](https://github.com/bethgelab/foolbox) ⭐ 2,979 | 🐛 29 | 🌐 Python | 📅 2025-12-03 `Python`
-* [Safety CLI](https://github.com/pyupio/safety) ⭐ 1,999 | 🐛 99 | 🌐 Python | 📅 2026-09-04 `Python`
+* [Garak](https://github.com/NVIDIA/garak) ⭐ 9,500 | 🐛 484 | 🌐 Python | 📅 2026-10-07 `Python` `Nvidia`
+* [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,300 | 🐛 262 | 🌐 Python | 📅 2026-10-06 `Python`
+* [Guardrails](https://github.com/guardrails-ai/guardrails) ⭐ 7,496 | 🐛 71 | 🌐 Python | 📅 2026-10-06 `Python` [Guardrails Hub](https://hub.guardrailsai.com)
+* [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) ⭐ 7,266 | 🐛 261 | 🌐 Python | 📅 2026-10-07 `Python` `Amazon`
+* [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,261 | 🐛 20 | 🌐 Python | 📅 2026-10-08 `Python`
+* [Snyk Agent Scan](https://github.com/snyk/agent-scan) ⭐ 3,125 | 🐛 20 | 🌐 Python | 📅 2026-10-06 `Python`
+* [Foolbox](https://github.com/bethgelab/foolbox) ⭐ 2,980 | 🐛 29 | 🌐 Python | 📅 2025-12-03 `Python`
+* [Safety CLI](https://github.com/pyupio/safety) ⭐ 2,000 | 🐛 99 | 🌐 Python | 📅 2026-09-04 `Python`
 * [Factool](https://github.com/GAIR-NLP/factool) ⭐ 936 | 🐛 23 | 🌐 Python | 📅 2024-08-19 `Python`
 * [BackdoorBench](https://github.com/SCLBD/BackdoorBench) ⭐ 619 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-07-04 `Python`
 * [Qwen3Guard](https://github.com/QwenLM/Qwen3Guard) ⭐ 518 | 🐛 15 | 🌐 Python | 📅 2025-10-21 `Python` `Alibaba`
-* [Vigil](https://github.com/deadbits/vigil-llm) ⭐ 502 | 🐛 16 | 🌐 Python | 📅 2024-01-31
-* [Diotra](https://github.com/usnistgov/dioptra) ⭐ 301 | 🐛 169 | 🌐 Python | 📅 2026-10-06 `Python` `NIST`
+* [Vigil](https://github.com/deadbits/vigil-llm) ⭐ 505 | 🐛 16 | 🌐 Python | 📅 2024-01-31
+* [Diotra](https://github.com/usnistgov/dioptra) ⭐ 301 | 🐛 169 | 🌐 Python | 📅 2026-10-07 `Python` `NIST`
 * [Model Inversion Attack ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) ⭐ 197 | 🐛 3 | 🌐 Python | 📅 2026-09-15 `Python`
 * [wildguard](https://github.com/allenai/wildguard) ⭐ 139 | 🐛 3 | 🌐 Python | 📅 2024-12-02 `Python` `AllenAI`
 * [Autoguardrails](https://github.com/SantanderAI/autoguardrails) ⭐ 131 | 🐛 1 | 🌐 Python | 📅 2026-10-01 `Python` `Santander`
@@ -1289,9 +1289,9 @@ Language-level tools for expressing, validating, and enforcing authorization pol
 
 * [detect-secrets](https://github.com/Yelp/detect-secrets) ⭐ 4,649 | 🐛 184 | 🌐 Python | 📅 2026-04-02 `Python`
 * [Counterfit](https://github.com/Azure/counterfit/) ⭐ 942 | 🐛 26 | 🌐 Python | 📅 2025-07-18 `Python` `Microsoft`
-* [Modelscan](https://github.com/protectai/modelscan) ⭐ 780 | 🐛 86 | 🌐 Python | 📅 2026-09-28 `Python`
+* [Modelscan](https://github.com/protectai/modelscan) ⭐ 782 | 🐛 86 | 🌐 Python | 📅 2026-09-28 `Python`
 * [PyRIT](https://github.com/Azure/PyRIT) ⚠️ Archived `Python` `Microsoft`
-* [Turing Data Safe Haven](https://github.com/alan-turing-institute/data-safe-haven) ⭐ 73 | 🐛 125 | 🌐 Python | 📅 2026-10-07 `Python` `The Alan Turing Institute`
+* [Turing Data Safe Haven](https://github.com/alan-turing-institute/data-safe-haven) ⭐ 73 | 🐛 137 | 🌐 Python | 📅 2026-10-07 `Python` `The Alan Turing Institute`
 * [Resk-LLM](https://github.com/Resk-Security/Resk-LLM) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-09-11 `Python`
 * [NB Defense](https://nbdefense.ai) `Python`
 
@@ -1304,16 +1304,16 @@ For consumers:
 ### Synthetic Data
 
 * [Snorkel](https://github.com/snorkel-team/snorkel) ⭐ 6,014 | 🐛 18 | 🌐 Python | 📅 2026-09-14 `Python`
-* [SDV](https://github.com/sdv-dev/SDV) ⭐ 3,569 | 🐛 155 | 🌐 Python | 📅 2026-10-07 `Python`
-* [Curator](https://github.com/bespokelabsai/curator) ⭐ 1,741 | 🐛 78 | 🌐 Python | 📅 2026-09-29
+* [SDV](https://github.com/sdv-dev/SDV) ⭐ 3,570 | 🐛 152 | 🌐 Python | 📅 2026-10-08 `Python`
+* [Curator](https://github.com/bespokelabsai/curator) ⭐ 1,742 | 🐛 78 | 🌐 Python | 📅 2026-09-29
 * [YData Synthetic](https://github.com/ydataai/ydata-synthetic) ⭐ 1,659 | 🐛 65 | 🌐 Jupyter Notebook | 📅 2026-09-03 `Python`
 * [Gretel Synthetics](https://github.com/gretelai/gretel-synthetics) ⚠️ Archived `Python`
 * [SmartNoise](https://github.com/opendp/smartnoise-core) ⚠️ Archived `Python` `OpenDP`
-* [DataSynthesizer: Privacy-Preserving Synthetic Datasets](https://github.com/DataResponsibly/DataSynthesizer) ⭐ 279 | 🐛 18 | 🌐 HTML | 📅 2026-07-15 `Python` `Drexel University` `University of Washington`
+* [DataSynthesizer: Privacy-Preserving Synthetic Datasets](https://github.com/DataResponsibly/DataSynthesizer) ⭐ 278 | 🐛 18 | 🌐 HTML | 📅 2026-07-15 `Python` `Drexel University` `University of Washington`
 
 ### Sustainability
 
-* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,926 | 🐛 194 | 🌐 Python | 📅 2026-10-05 [Website](https://codecarbon.io) `Python`
+* [CodeCarbon](https://github.com/mlco2/codecarbon) ⭐ 1,927 | 🐛 190 | 🌐 Python | 📅 2026-10-07 [Website](https://codecarbon.io) `Python`
 * [Carbon Tracker](https://github.com/lfwa/carbontracker) ⭐ 484 | 🐛 12 | 🌐 Python | 📅 2026-08-27 [Website](https://carbontracker.info) `Python`
 * [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) ⭐ 281 | 🐛 2 | 🌐 Python | 📅 2026-10-06 `Python`
 * [AI Energy Consumption Calculator](https://aienergycalculator.com)
@@ -1328,8 +1328,8 @@ For consumers:
 ### (RAI) Toolkit
 
 * [Deepchecks](https://github.com/deepchecks/deepchecks) ⭐ 4,060 | 🐛 269 | 🌐 Python | 📅 2025-12-28 `Python`
-* [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) ⭐ 1,845 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-05 `Python` `Microsoft`
-* [Responsible AI Widgets](https://github.com/microsoft/responsible-ai-widgets) ⭐ 1,845 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-05 `R` `Microsoft`
+* [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) ⭐ 1,845 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-08 `Python` `Microsoft`
+* [Responsible AI Widgets](https://github.com/microsoft/responsible-ai-widgets) ⭐ 1,845 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-08 `R` `Microsoft`
 * [Dr. Why](https://github.com/ModelOriented/DrWhy) ⭐ 688 | 🐛 1 | 🌐 R | 📅 2023-02-21 `R` `Warsaw University of Technology`
 * [Zeno Hub](https://github.com/zeno-ml/zeno-hub) ⭐ 50 | 🐛 16 | 🌐 CSS | 📅 2025-05-26 `Python`
 * [Mercury](https://www.bbvaaifactory.com/mercury/) `Python` `BBVA`
@@ -1337,10 +1337,10 @@ For consumers:
 
 ### (AI) Watermarking
 
-* [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover) ⭐ 23,505 | 🐛 21 | 🌐 Python | 📅 2026-10-05
-* [SynthID Text](https://github.com/google-deepmind/synthid-text) ⭐ 1,135 | 🐛 21 | 🌐 Python | 📅 2026-09-30 `Python` `Google`
+* [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover) ⭐ 23,576 | 🐛 21 | 🌐 Python | 📅 2026-10-05
+* [SynthID Text](https://github.com/google-deepmind/synthid-text) ⭐ 1,143 | 🐛 21 | 🌐 Python | 📅 2026-09-30 `Python` `Google`
 * [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://github.com/thu-bpm/markllm) ⭐ 1,080 | 🐛 1 | 🌐 Python | 📅 2026-09-05 `Python`
-* [AudioSeal: Proactive Localized Watermarking](https://github.com/facebookresearch/audioseal) ⭐ 794 | 🐛 25 | 🌐 Python | 📅 2026-05-19 `Python` `Facebook`
+* [AudioSeal: Proactive Localized Watermarking](https://github.com/facebookresearch/audioseal) ⭐ 795 | 🐛 25 | 🌐 Python | 📅 2026-05-19 `Python` `Facebook`
 * [C2PA](https://c2pa.org)
 * [declaude](https://declaude.org)
 
@@ -1379,4 +1379,4 @@ Curto, J., et al. "Awesome Responsible Artificial Intelligence". *GitHub*, 2026,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
